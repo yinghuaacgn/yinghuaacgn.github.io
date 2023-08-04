@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>桜华的小站</title>
+  
+  <subtitle>Ciallo～(∠・ω&lt; )⌒★</subtitle>
+  <link href="http://sakura.xingz.top/atom.xml" rel="self"/>
+  
+  <link href="http://sakura.xingz.top/"/>
+  <updated>2023-08-04T16:46:18.981Z</updated>
+  <id>http://sakura.xingz.top/</id>
+  
+  <author>
+    <name>Liz Void</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>游戏推荐 &#92; 赛博朋克:2077 &#92; CyberPunk:2077</title>
+    <link href="http://sakura.xingz.top/2023/08/05/CyberPunk2077/"/>
+    <id>http://sakura.xingz.top/2023/08/05/CyberPunk2077/</id>
+    <published>2023-08-04T16:10:11.000Z</published>
+    <updated>2023-08-04T16:46:18.981Z</updated>
+    
+    
+    <summary type="html">「赛博朋克 : 2077」这一毁誉参半的游戏生命也将走到尾声，我们希望它迎来的是一个辉煌的落幕，作为史上第一个3A级别的赛博朋克风格游戏，它值得在游戏史上留下自己的名字，被玩家所喜爱。</summary>
+    
+    
+    
+    
+    <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
+    
+    <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="赛博朋克:2077" scheme="http://sakura.xingz.top/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B-2077/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>堂堂建站！</title>
+    <link href="http://sakura.xingz.top/2023/08/04/ignition/"/>
+    <id>http://sakura.xingz.top/2023/08/04/ignition/</id>
+    <published>2023-08-04T06:55:19.000Z</published>
+    <updated>2023-08-04T06:59:57.695Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lxz-picture.oss-cn-shanghai.aliyuncs.com/img/202308041458253.jpg?x-oss-process=image/resize,p_80/format,webp/quality,q_</summary>
+      
+    
+    
+    
+    
+    <category term="init" scheme="http://sakura.xingz.top/tags/init/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sakura.xingz.top/2023/08/04/hello-world/"/>
+    <id>http://sakura.xingz.top/2023/08/04/hello-world/</id>
+    <published>2023-08-04T04:34:19.321Z</published>
+    <updated>2023-08-04T04:34:19.321Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
