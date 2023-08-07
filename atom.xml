@@ -6,7 +6,7 @@
   <link href="http://sakura.xingz.top/atom.xml" rel="self"/>
   
   <link href="http://sakura.xingz.top/"/>
-  <updated>2023-08-06T15:27:38.412Z</updated>
+  <updated>2023-08-06T17:34:32.275Z</updated>
   <id>http://sakura.xingz.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://sakura.xingz.top/2023/08/06/Cogecha/"/>
     <id>http://sakura.xingz.top/2023/08/06/Cogecha/</id>
     <published>2023-08-06T09:35:56.000Z</published>
-    <updated>2023-08-06T15:27:38.412Z</updated>
+    <updated>2023-08-06T17:34:32.275Z</updated>
     
     
     <summary type="html">「上帝喜欢他的插画 所以带走了他」</summary>
@@ -36,6 +36,27 @@
     <category term="画师" scheme="http://sakura.xingz.top/tags/%E7%94%BB%E5%B8%88/"/>
     
     <category term="焦茶" scheme="http://sakura.xingz.top/tags/%E7%84%A6%E8%8C%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rainworld &#92; 死亡，轮回，猫猫</title>
+    <link href="http://sakura.xingz.top/2023/08/06/Rainworld/"/>
+    <id>http://sakura.xingz.top/2023/08/06/Rainworld/</id>
+    <published>2023-08-06T05:52:36.000Z</published>
+    <updated>2023-08-07T02:55:02.994Z</updated>
+    
+    
+    <summary type="html">你看见的和我一样吗？即使在一个早已被遗忘的地方，美丽也会持续不断地绽放。我不想离开，也不愿离开。为什么他们总是想方设法寻求解脱，就好像我们被囚禁了一样？虚空给了他们什么东西，能夺走我们被赐予的生命之礼？此时！此地！才是我们该去的地方。</summary>
+    
+    
+    
+    
+    <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
+    
+    <category term="Rainworld" scheme="http://sakura.xingz.top/tags/Rainworld/"/>
+    
+    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
     
   </entry>
   
@@ -93,7 +114,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lxz-picture.oss-cn-shanghai.aliyuncs.com/img/202308041458253.jpg?x-oss-process=image/resize,p_80/format,webp/quality,q_</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
     
@@ -113,7 +134,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
     
