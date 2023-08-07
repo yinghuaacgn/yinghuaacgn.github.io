@@ -6,7 +6,7 @@
   <link href="http://sakura.xingz.top/atom.xml" rel="self"/>
   
   <link href="http://sakura.xingz.top/"/>
-  <updated>2023-08-07T12:24:34.636Z</updated>
+  <updated>2023-08-07T14:34:41.692Z</updated>
   <id>http://sakura.xingz.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://sakura.xingz.top/2023/08/07/ScumsWish/"/>
     <id>http://sakura.xingz.top/2023/08/07/ScumsWish/</id>
     <published>2023-08-07T09:36:57.000Z</published>
-    <updated>2023-08-07T12:24:34.636Z</updated>
+    <updated>2023-08-07T14:34:41.692Z</updated>
     
     
     <summary type="html">少有人可以理解他们的做法，但这正是极致的纯爱与对爱畸形的追求。涉世未深的我们追求着纯爱，但纯爱往往是无比艰难而苦涩的。我们可以说他们是不道德的，但是也必须说他们是现实的。</summary>
@@ -56,11 +56,11 @@
     
     <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
     
+    <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
+    
     <category term="Rainworld" scheme="http://sakura.xingz.top/tags/Rainworld/"/>
     
     <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
-    
-    <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
     
   </entry>
   
@@ -106,9 +106,9 @@
     
     <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
     
-    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
-    
     <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
+    
+    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
     
     <category term="galgame" scheme="http://sakura.xingz.top/tags/galgame/"/>
     
