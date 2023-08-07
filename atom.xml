@@ -6,7 +6,7 @@
   <link href="http://sakura.xingz.top/atom.xml" rel="self"/>
   
   <link href="http://sakura.xingz.top/"/>
-  <updated>2023-08-07T02:58:49.167Z</updated>
+  <updated>2023-08-07T03:00:14.839Z</updated>
   <id>http://sakura.xingz.top/</id>
   
   <author>
@@ -21,13 +21,15 @@
     <link href="http://sakura.xingz.top/2023/08/07/Rainworld/"/>
     <id>http://sakura.xingz.top/2023/08/07/Rainworld/</id>
     <published>2023-08-07T03:00:00.000Z</published>
-    <updated>2023-08-07T02:58:49.167Z</updated>
+    <updated>2023-08-07T03:00:14.839Z</updated>
     
     
     <summary type="html">你看见的和我一样吗？即使在一个早已被遗忘的地方，美丽也会持续不断地绽放。我不想离开，也不愿离开。为什么他们总是想方设法寻求解脱，就好像我们被囚禁了一样？虚空给了他们什么东西，能夺走我们被赐予的生命之礼？此时！此地！才是我们该去的地方。</summary>
     
     
     
+    
+    <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
     
     <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
     
@@ -42,7 +44,7 @@
     <link href="http://sakura.xingz.top/2023/08/06/Cogecha/"/>
     <id>http://sakura.xingz.top/2023/08/06/Cogecha/</id>
     <published>2023-08-06T09:35:56.000Z</published>
-    <updated>2023-08-06T17:34:32.275Z</updated>
+    <updated>2023-08-07T03:00:45.371Z</updated>
     
     
     <summary type="html">「上帝喜欢他的插画 所以带走了他」</summary>
@@ -58,6 +60,10 @@
     
     <category term="焦茶" scheme="http://sakura.xingz.top/tags/%E7%84%A6%E8%8C%B6/"/>
     
+    <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="介绍" scheme="http://sakura.xingz.top/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
   </entry>
   
   <entry>
@@ -65,7 +71,7 @@
     <link href="http://sakura.xingz.top/2023/08/05/Watashi-no-Real-wa-Juujitsu-Shisugiteiru/"/>
     <id>http://sakura.xingz.top/2023/08/05/Watashi-no-Real-wa-Juujitsu-Shisugiteiru/</id>
     <published>2023-08-05T05:28:25.000Z</published>
-    <updated>2023-08-05T05:47:15.762Z</updated>
+    <updated>2023-08-07T03:00:53.992Z</updated>
     
     
     <summary type="html">总之强推！！清水小甜饼，体验感极佳</summary>
@@ -73,9 +79,11 @@
     
     
     
+    <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
+    
     <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
     
-    <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
     
     <category term="galgame" scheme="http://sakura.xingz.top/tags/galgame/"/>
     
@@ -96,9 +104,9 @@
     
     
     
-    <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
-    
     <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
     
     <category term="赛博朋克:2077" scheme="http://sakura.xingz.top/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B-2077/"/>
     
