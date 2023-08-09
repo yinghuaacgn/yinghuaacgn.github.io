@@ -6,7 +6,7 @@
   <link href="http://sakura.xingz.top/atom.xml" rel="self"/>
   
   <link href="http://sakura.xingz.top/"/>
-  <updated>2023-08-09T16:01:08.295Z</updated>
+  <updated>2023-08-09T16:03:04.344Z</updated>
   <id>http://sakura.xingz.top/</id>
   
   <author>
@@ -21,13 +21,10 @@
     <link href="http://sakura.xingz.top/2023/08/10/GoodsStore/"/>
     <id>http://sakura.xingz.top/2023/08/10/GoodsStore/</id>
     <published>2023-08-09T16:00:00.000Z</published>
-    <updated>2023-08-09T16:01:08.295Z</updated>
+    <updated>2023-08-09T16:03:04.344Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
-      
+    <summary type="html">感谢赞助喵</summary>
     
     
     
@@ -57,11 +54,11 @@
     
     <category term="推荐" scheme="http://sakura.xingz.top/tags/%E6%8E%A8%E8%8D%90/"/>
     
+    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
+    
     <category term="番剧" scheme="http://sakura.xingz.top/tags/%E7%95%AA%E5%89%A7/"/>
     
     <category term="人渣的本愿" scheme="http://sakura.xingz.top/tags/%E4%BA%BA%E6%B8%A3%E7%9A%84%E6%9C%AC%E6%84%BF/"/>
-    
-    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
     
   </entry>
   
@@ -82,9 +79,9 @@
     
     <category term="游研部" scheme="http://sakura.xingz.top/tags/%E6%B8%B8%E7%A0%94%E9%83%A8/"/>
     
-    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
-    
     <category term="Rainworld" scheme="http://sakura.xingz.top/tags/Rainworld/"/>
+    
+    <category term="投稿" scheme="http://sakura.xingz.top/tags/%E6%8A%95%E7%A8%BF/"/>
     
   </entry>
   
